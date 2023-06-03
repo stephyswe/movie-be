@@ -8,7 +8,6 @@ node_modules/
 .idea
 .eslintcache
 front/coverage
-/uploads
 
 # next.js
 .next
